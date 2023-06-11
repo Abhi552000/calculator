@@ -1,5 +1,5 @@
 console.log(
-    "Javascript Calculator Made by Harsh Trivedi\nhttps://harsh98trivedi.github.io"
+    "Javascript Calculator Made by Abhishek kumar singh"
 );
 
 document.getElementById("answer").readOnly = true; //set this attribute in Html file
